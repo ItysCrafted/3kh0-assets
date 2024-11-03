@@ -3,7 +3,7 @@
 ### also, credit to ([WhoIsEV](https://github.com/WhoIsEv/relivedassets)), because the original 3kh0 assets was deleted, but his repo exists, thank you 💖
 
 
-**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork](https://github.com/GalacticNetwork/jordansmathwork-v5) and [Astro.](https://github.com/GalacticNetwork/astro-static)
+**All credits goes to [@3kh0](https://github.com/3kh0)! He has made the 3kh0 Assets and I just uploaded them to this repo for my website, [Jordansmathwork](https://github.com/GalacticNetwork/jordansmathwork-v6).
 Please check out 3kh0's profile! He has amazing stuff there and is one of my favorites for making this BEAUTIFUL website. ♥**
 
 3kh0 Assets Stats:
@@ -29,11 +29,11 @@ If you want to use these for your own projects, I would just like to ask a few t
 
 ### Embedding
 
-The base URL for the CDN is https://rawgitt.glitch.me/GalacticNetwork/3kh0-assets/main/
+The base URL for the CDN is https://cdn.canvaslms.site/GalacticNetwork/3kh0-assets/main/
 
 SO pretty much just add the folder of the game you want, say 2048, the url would be
 ```
-https://rawgitt.glitch.me/GalacticNetwork/3kh0-assets/main/2048/index.html
+https://cdn.canvaslms.site/GalacticNetwork/3kh0-assets/main/2048/index.html
 ```
 And you would replace `2048` with the title of the folder, this is the best method since the game would be up-to-date always, in case of something like a update or something breaks.
 
