@@ -52,13 +52,18 @@
       <br>
       <br>
     <button class="randomlinks" onclick="randomLinks()">Click here for a randomly generated link!</button>
+      <h2>If a link is cloaked, press 2 twice to unlock!</h2>
     </div>
   </body>
   <script>
     function randomLinks() {
   var links = [
     "https://codinglessons.netlify.app",
-    "https://curtiss.pages.dev"
+    "https://curtiss.pages.dev",
+    "https://studyscience.pages.dev",
+    "https://codinglessons.netlify.app/",
+    "https://jmwbetterthanplexile.netlify.app/",
+    "https://jmw-cloak.pages.dev/",
   ];
   var randomIndex = Math.floor(Math.random() * links.length);
   window.open(links[randomIndex]);
